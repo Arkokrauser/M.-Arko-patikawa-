@@ -1,0 +1,12 @@
+thoughput		= 9524899 / 100,458 = 94814,7385 bytes/s
+			= 1 bytes/s = 8 bit
+			= 94814,7385 = 758,517908 bits/s
+
+packet loss		= 8869 - 2 = 8867 X 100 / 8869 = 99,9774495
+			= 100 - 99,9774495 = 0,0225505
+
+total delay	= 96405942
+rata2 delay	= 10871,21583
+
+total jitter	= 96360986
+rata2 jitter	= 10866,14637
